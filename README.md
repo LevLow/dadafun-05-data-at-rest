@@ -1,4 +1,4 @@
-# dadafun-05-data-at-rest
+# datafun-05-data-at-rest
 # Levi Lowther
 ## The purpose of this project is to:
 1. Understand Data at Rest
